@@ -1,4 +1,4 @@
-package autogestion.application;
+package empleados.application;
 
 public class Delete {
 }

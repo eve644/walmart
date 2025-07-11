@@ -1,4 +1,4 @@
-package autogestion.application;
+package inventario.application;
 
 public class Delete {
 }
